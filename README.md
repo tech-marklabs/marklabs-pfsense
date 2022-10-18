@@ -1,4 +1,4 @@
-# my goal
+# MY GOAL
 custom project - my own firewall product - meant to be an easy-to-deploy firewall solution, plug-and-play functionality & security
 
 # pfSense
