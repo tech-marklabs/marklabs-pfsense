@@ -1,4 +1,5 @@
-# custom project for my own firewall - meant to be an easy-to-deploy firewall solution, plug-and-play functionality & security
+# my goal
+custom project for my own firewall - meant to be an easy-to-deploy firewall solution, plug-and-play functionality & security
 
 # pfSense
 
